@@ -1,0 +1,14 @@
+# Ignore virtual environments
+pizza-env/
+myenv/
+
+# Ignore video files
+*.mp4
+
+# Ignore common weight/checkpoint/model files
+*.pt
+*.pth
+*.onnx
+
+# ByteTrack / YOLO logs
+runs/
