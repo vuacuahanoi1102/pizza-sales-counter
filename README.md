@@ -73,7 +73,7 @@ cd ..
 ---
 
 ## ▶️ Run the System
-
+After downloading the video, rename it to video1.mp4 and place it in the same directory as pizza_tracker.py
 ```bash
 python pizza_tracker.py
 ```
